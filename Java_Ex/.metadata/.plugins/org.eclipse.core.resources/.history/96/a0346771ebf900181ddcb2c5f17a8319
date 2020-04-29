@@ -1,0 +1,13 @@
+package com.couse.classes;
+
+public class MultiClass {
+	
+	public void simpleMessage() {
+		System.out.println("A simple method");
+	}
+
+}
+
+public class SecondClass {
+	 
+}

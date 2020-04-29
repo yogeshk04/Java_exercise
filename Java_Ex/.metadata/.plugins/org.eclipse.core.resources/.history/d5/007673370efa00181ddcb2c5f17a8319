@@ -1,0 +1,11 @@
+package com.course.exercise;
+
+public class arrayExample {
+	
+	public static void main(String args[]) {
+		int arr[] = new int[10];
+		
+		
+	}
+
+}

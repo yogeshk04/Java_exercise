@@ -1,0 +1,27 @@
+package com.course.exercise;
+
+import java.util.Scanner;
+
+public class calculator {
+	
+	public static void main(String args[]) {
+		Scanner input = new Scanner(System.in);
+		
+		double first, second, third;
+		
+		System.out.println("Print firts number: ");
+		first = input.nextDouble();
+		System.out.println("Print second number: ");
+		second = input.nextDouble();
+		System.out.println("Print third number: ");
+		third = input.nextDouble();
+		
+		double addition = first+second+third;
+		System.out.println("Addition is : " + addition);
+		
+		input.close();
+		
+		
+	}
+
+}

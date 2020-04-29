@@ -1,0 +1,12 @@
+package com.course.exercise;
+
+public class enhanceForLoop {
+	
+	int num[] = {3,4,5,6,7,8,8};
+	int total = 0;
+	
+	
+	
+	
+
+}

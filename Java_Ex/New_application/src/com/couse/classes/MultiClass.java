@@ -1,0 +1,21 @@
+package com.couse.classes;
+
+public class MultiClass {
+	
+	String name = "Manu";
+	
+	public MultiClass(String n) {
+		name = n;
+	}
+	public void simpleMessage() {
+		
+		
+		System.out.println("A simple method");
+	}
+	
+	public void intro(String name, int age) {
+		System.out.println("Hello " + name + "." + "You are " + age + " year old");
+	}
+
+}
+

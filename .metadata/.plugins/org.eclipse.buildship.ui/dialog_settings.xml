@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item value="D:\Learn_More\REST_API\OTP\OTPSystem" key="project_location"/>
+	</section>
+</section>

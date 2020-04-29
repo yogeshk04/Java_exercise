@@ -1,0 +1,14 @@
+package com.course.exercise;
+
+public class stringArray {
+	public static void main(String[] args) {
+		String name[] = {"Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"};
+		
+		for(int i=0; i<name.length; i++) {
+
+			System.out.println("Day "+ i + " is: "+name[i]);
+		}
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.couse.classes;
+
+public class applicationClass {
+	public static void main(String args[]) {
+		MultiClass mc = new MultiClass();
+		
+		mc.simpleMessage();
+	}
+
+}

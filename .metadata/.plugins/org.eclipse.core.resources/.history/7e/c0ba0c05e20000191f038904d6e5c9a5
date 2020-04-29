@@ -1,0 +1,24 @@
+package com.course.linkedlist;
+
+import java.util.LinkedList;
+
+public class LinkedListExample {
+	public static void main(String[] args) {
+		// Creating object of Linked List class
+		LinkedList<String> listObj = new LinkedList<String>();
+		
+//		Addiing elements into linked list
+		listObj.add("A");
+		listObj.add("B");
+		listObj.add("Ram");
+		listObj.addFirst("MR.");
+		listObj.addLast(".....");
+		listObj.add(4,"Yogesh");
+		listObj.add("Pune");
+		System.out.println("Linked list : " + listObj);
+		
+		// Finding the elements in the linked list
+		boolean status = listObj.contains("Yogesh");
+	}
+
+}

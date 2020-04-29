@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/9pabo3/.m2/repository/junit/junit/4.12/junit-4.12.jar" sourcepath="C:/Users/9pabo3/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/9pabo3/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/d24515dc253e77e54b73df97e1fb2eb7faf34fdd/testng-6.14.3.jar" sourcepath="C:/Users/9pabo3/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,15 @@
+package com.sorting;
+
+public class ArraySortingDemo {
+	public static void main(String[], arrg) {
+		// Initialize unsorted short array
+		short sArry[] = {22,13,32,10,5,45,4,5};
+		
+		//let use print hte elements available in list
+		for(short num : sArry) {
+			System.out.println("Numbers = " + num);
+			
+		}
+	}
+
+}

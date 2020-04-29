@@ -1,0 +1,21 @@
+package com.course.exercise;
+
+public class variableLength {
+	
+	public static void main(String[] args) {
+		System.out.println(average(1,2,1,2,45));
+		
+	}
+	
+	public static int average(int...num) {
+		int total =0;
+		for(int a: num) {
+			total+=a;
+		}
+		
+		return total/num.length;
+		
+		
+	}
+
+}

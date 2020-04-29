@@ -1,0 +1,13 @@
+package com.course.linkedlist;
+
+public class LinkedListExample {
+	public static void main(String[] args) {
+		// Creating object of Linked List class
+		LinkedList<String> lo = new LinkedList<String>();
+		
+		lo.add("D");
+		
+		
+	}
+
+}

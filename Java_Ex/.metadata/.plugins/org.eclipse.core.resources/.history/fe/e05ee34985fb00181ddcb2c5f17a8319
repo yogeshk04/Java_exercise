@@ -1,0 +1,20 @@
+package com.course.exercise;
+
+public class Person {
+	
+	int rollNo;
+	String name;
+	
+	public String Person() {
+		
+		
+		
+	}
+	
+	/*public void fullName(String name, int rollNo) {
+		this.name = name;
+		this.rollNo = rollNo;
+		
+	}*/
+
+}

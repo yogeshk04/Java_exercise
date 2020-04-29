@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Classes/src&amp;lt;{a.java[a&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=OTPSystem/D:\/repo_aws\/caches\/modules-2\/files-2.1\/net.bytebuddy\/byte-buddy-agent\/1.9.12\/e00a8edb67b99217cab8ade01f1f1183c15d669e\/byte-buddy-agent-1.9.12.jar&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="393" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="523" key="DIALOG_HEIGHT"/>
+			<item value="669" key="DIALOG_X_ORIGIN"/>
+			<item value="191" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

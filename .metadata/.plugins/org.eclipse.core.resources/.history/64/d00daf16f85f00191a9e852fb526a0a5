@@ -1,0 +1,8 @@
+
+public class ConcatenateExample {
+	public static void main(String[] args) {
+		String s = "Welcome";
+		s = s.concat(" Siemens").concat(" PLM").concat(" Software").concat(" Pune");
+	}
+
+}

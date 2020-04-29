@@ -1,0 +1,20 @@
+package com.course.exercise;
+
+import java.util.Scanner;
+
+public class calculator {
+	
+	public static void main(String args[]) {
+		Scanner input = new Scanner(System.in);
+		
+		double first, second, third;
+		
+		System.out.println("Print firts number: ");
+		first = input.nextDouble();
+		second = input.nextDouble();
+		third = input.nextDouble();
+		
+		
+	}
+
+}

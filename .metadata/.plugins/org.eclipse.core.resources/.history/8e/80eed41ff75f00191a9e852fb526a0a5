@@ -1,0 +1,13 @@
+
+public class stringStringBufferExample {
+	public static void main(String[] args) {
+		
+		String name = new String("Manasvi");
+		System.out.println(name);
+		name.concat("Nikam");		
+		System.out.println(name);
+		
+		System.out.println("-------------------------");
+	}
+
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+      <class name="MindSphere.AssetManager.AssertManagerUI">
+        <test-method status="PASS" signature="launcBrowser()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="launcBrowser" is-config="true" duration-ms="16" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcBrowser -->
+        <test-method status="PASS" signature="loginToMDSP()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="loginToMDSP" is-config="true" duration-ms="0" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToMDSP -->
+        <test-method status="PASS" signature="createAnAsset()[pri:1, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="createAnAsset" duration-ms="7" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAsset -->
+        <test-method status="PASS" signature="logoutFromMDSP()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="logoutFromMDSP" is-config="true" duration-ms="1" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromMDSP -->
+        <test-method status="PASS" signature="loginToMDSP()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="loginToMDSP" is-config="true" duration-ms="0" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToMDSP -->
+        <test-method status="PASS" signature="createAnAspectType()[pri:2, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="createAnAspectType" duration-ms="1" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAspectType -->
+        <test-method status="PASS" signature="logoutFromMDSP()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="logoutFromMDSP" is-config="true" duration-ms="0" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromMDSP -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:MindSphere.AssetManager.AssertManagerUI@5034c75a]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-03-26T15:27:56Z" finished-at="2019-03-26T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- MindSphere.AssetManager.AssertManagerUI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

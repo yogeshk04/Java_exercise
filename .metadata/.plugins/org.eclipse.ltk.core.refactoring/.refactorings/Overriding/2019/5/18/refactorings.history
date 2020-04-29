@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;parent&apos; to &apos;Parent&apos;&#x0D;&#x0A;- Original project: &apos;Overriding&apos;&#x0D;&#x0A;- Original element: &apos;parent&apos;&#x0D;&#x0A;- Renamed element: &apos;Parent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;parent&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{parent.java[parent" matchStrategy="1" name="Parent" qualified="false" references="true" similarDeclarations="false" stamp="1556680937714" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package com.course.exercise;
+
+public class arrayexample1 {
+	public static void main(String[] args) {
+		int array[] = new int[3];
+		
+		System.out.println("Array at index 0 is: " + array[0]);
+		System.out.println("Array at index 0 is: " + array[1]);
+		System.out.println("Array at index 0 is: " + array[2]);
+		System.out.println("Array at index 0 is: " + array[3]);
+	}
+
+}

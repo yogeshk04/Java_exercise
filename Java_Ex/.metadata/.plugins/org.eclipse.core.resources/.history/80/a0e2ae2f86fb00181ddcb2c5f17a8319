@@ -1,0 +1,9 @@
+package com.couse.classes;
+package com.course.exercise;
+
+public class toStringMain {
+	public static void main(String[] args) {
+		Person p = new Person("Yogesh", 31);
+	}
+
+}
